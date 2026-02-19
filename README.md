@@ -25,5 +25,3 @@ based on humidity, wind speed, and atmospheric pressure.
 ##  Output
 Real-time weather prediction system.
 
-## 👤 Author
-Srisai
